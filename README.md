@@ -1,4 +1,5 @@
 # SaaS_Product_Growth_Analysis
+Purely Based on Numpy
 
 This project analyzes performance of 6 SaaS products over 4 weeks using randomly generated data.
 
